@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T11:57:53.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zNlw63rk8b6jgeXj6HCc" version="21.6.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-18T12:31:00.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="WIegymLKieEy04sTyHz4" version="21.6.8" type="github" pages="5">
   <diagram id="nVL1cfp93Eadc7CqgLmI" name="post_event">
     <mxGraphModel dx="1687" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="prtHgNgQTEPvFCAcTncT" name="pre_event">
-    <mxGraphModel dx="1687" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
         <mxCell id="UCFZaN4B_bA0-SxtQ1hj-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;2.&amp;nbsp;Plan Menu: Based on available stocks, the canteen management plans the menu for the day/week and updates it in the system/app.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="630" y="354.5" width="160" height="169" as="geometry" />
         </mxCell>
-        <mxCell id="UCFZaN4B_bA0-SxtQ1hj-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;3.&amp;nbsp;Plan Menu: Based on available stocks, the canteen management plans the menu for the day/week and updates it in the system/app.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="1">
+        <mxCell id="UCFZaN4B_bA0-SxtQ1hj-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;3.&amp;nbsp;Notify Catering Vendors: The canteen management notifies the outsourced catering vendors about the required meals and quantities for the day/week.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="870" y="362.5" width="160" height="169" as="geometry" />
         </mxCell>
         <mxCell id="UCFZaN4B_bA0-SxtQ1hj-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
