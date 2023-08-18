@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T15:24:37.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yj4qmRLjscemvBkjEnYi" version="21.6.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-18T15:29:29.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="FT2Br4muKgoiMCqxzs-T" version="21.6.8" type="github" pages="5">
   <diagram id="nVL1cfp93Eadc7CqgLmI" name="post_event">
     <mxGraphModel dx="555" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -263,93 +263,93 @@
       <root>
         <mxCell id="t8DMtQxWttx50M0B4d1x-0" />
         <mxCell id="t8DMtQxWttx50M0B4d1x-1" parent="t8DMtQxWttx50M0B4d1x-0" />
-        <mxCell id="t8DMtQxWttx50M0B4d1x-2" value="&lt;font color=&quot;#000000&quot;&gt;Pool&lt;br&gt;&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-1">
+        <mxCell id="t8DMtQxWttx50M0B4d1x-2" value="&lt;font color=&quot;#000000&quot;&gt;Pool&lt;br&gt;&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-1">
           <mxGeometry x="100" y="120" width="1390" height="710" as="geometry">
             <mxRectangle x="120" y="120" width="40" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8DMtQxWttx50M0B4d1x-3" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Employees&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=8;fillStyle=auto;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-2">
+        <mxCell id="t8DMtQxWttx50M0B4d1x-3" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Employees&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=8;fillStyle=auto;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-2">
           <mxGeometry x="20" width="1370" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-11" value="6.&amp;nbsp;Decide to Head to Canteen: Based on their designated break time, and their pre-order, employees decide when to go to the canteen." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-3">
-          <mxGeometry x="1090" y="37.5" width="120" height="110" as="geometry" />
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-11" value="6.&amp;nbsp;Decide to Head to Canteen: Based on their designated break time, and their pre-order, employees decide when to go to the canteen." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-3">
+          <mxGeometry x="1090" y="37.5" width="120" height="128.5" as="geometry" />
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-2" value="11.&amp;nbsp;Eat Meal: Employees consume their food." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-3">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-2" value="11.&amp;nbsp;Eat Meal: Employees consume their food." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-3">
           <mxGeometry x="580" y="200" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="t8DMtQxWttx50M0B4d1x-3">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-3" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="210.76999999999998" as="sourcePoint" />
             <mxPoint x="520" y="211" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-4" value="12.&amp;nbsp;Provide Post-meal Feedback: Post meal, employees have the option to provide additional feedback on the food and overall canteen experience via the app." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-3">
-          <mxGeometry x="310" y="170" width="210" height="82.5" as="geometry" />
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-4" value="12.&amp;nbsp;Provide Post-meal Feedback: Post meal, employees have the option to provide additional feedback on the food and overall canteen experience via the app." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-3">
+          <mxGeometry x="310" y="178.75" width="210" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="t8DMtQxWttx50M0B4d1x-3">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-5" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="210.76999999999998" as="sourcePoint" />
             <mxPoint x="250" y="211" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-6" value="13. Return to Work: Employee continue their task until end of shift" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-3">
-          <mxGeometry x="150" y="172.5" width="100" height="80" as="geometry" />
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-6" value="13. Return to Work: Employee continue their task until end of shift" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-3">
+          <mxGeometry x="150" y="172.5" width="100" height="85.5" as="geometry" />
         </mxCell>
-        <mxCell id="tM-k441tZXfxmbJ1ukVG-0" value="" style="group" vertex="1" connectable="0" parent="t8DMtQxWttx50M0B4d1x-3">
-          <mxGeometry x="40" y="20" width="1050" height="140" as="geometry" />
+        <mxCell id="tM-k441tZXfxmbJ1ukVG-0" value="" style="group;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="t8DMtQxWttx50M0B4d1x-3">
+          <mxGeometry x="40" y="20" width="1050" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="t8DMtQxWttx50M0B4d1x-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1 (a).&amp;nbsp;Receive Digital Meal Token Notification: Employees get a notification on their app indicating they&#39;ve received their meal token.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="tM-k441tZXfxmbJ1ukVG-0">
+        <mxCell id="t8DMtQxWttx50M0B4d1x-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1 (a).&amp;nbsp;Receive Digital Meal Token Notification: Employees get a notification on their app indicating they&#39;ve received their meal token.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="tM-k441tZXfxmbJ1ukVG-0">
           <mxGeometry width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="tM-k441tZXfxmbJ1ukVG-0">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-1" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;" edge="1" parent="tM-k441tZXfxmbJ1ukVG-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="70" as="sourcePoint" />
             <mxPoint x="210" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-2" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;2.&amp;nbsp;Work: Employees carry out their respective duties during their shift.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="tM-k441tZXfxmbJ1ukVG-0">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-2" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;2.&amp;nbsp;Work: Employees carry out their respective duties during their shift.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="tM-k441tZXfxmbJ1ukVG-0">
           <mxGeometry x="210" y="25" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;3.&amp;nbsp;Pre-order Notification: 30 minutes before their designated break time, employees receive a notification prompting them to pre-order their meal if they wish.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="tM-k441tZXfxmbJ1ukVG-0">
-          <mxGeometry x="420" width="120" height="140" as="geometry" />
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;3.&amp;nbsp;Pre-order Notification: 30 minutes before their designated break time, employees receive a notification prompting them to pre-order their meal if they wish.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="tM-k441tZXfxmbJ1ukVG-0">
+          <mxGeometry x="420" width="120" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.007;exitY=0.433;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="tM-k441tZXfxmbJ1ukVG-0" source="D9mpLpNUpnsFXnbMc8AM-2">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.007;exitY=0.433;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="tM-k441tZXfxmbJ1ukVG-0" source="D9mpLpNUpnsFXnbMc8AM-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="60" as="sourcePoint" />
             <mxPoint x="420" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="tM-k441tZXfxmbJ1ukVG-0">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-5" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;" edge="1" parent="tM-k441tZXfxmbJ1ukVG-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="64.57" as="sourcePoint" />
             <mxPoint x="630" y="64.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;4.&amp;nbsp;&lt;/font&gt;Pre-order Meal: Employees can select their meal choice through the app.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="tM-k441tZXfxmbJ1ukVG-0">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;4.&amp;nbsp;&lt;/font&gt;Pre-order Meal: Employees can select their meal choice through the app.&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="tM-k441tZXfxmbJ1ukVG-0">
           <mxGeometry x="630" y="30" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="tM-k441tZXfxmbJ1ukVG-0">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-8" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;" edge="1" parent="tM-k441tZXfxmbJ1ukVG-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="64.57" as="sourcePoint" />
             <mxPoint x="840" y="64.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-9" value="5.&amp;nbsp;Provide Immediate Feedback: After ordering, employees are prompted to provide feedback on the ordering experience." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="tM-k441tZXfxmbJ1ukVG-0">
-          <mxGeometry x="840" y="15" width="120" height="115" as="geometry" />
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-9" value="5.&amp;nbsp;Provide Immediate Feedback: After ordering, employees are prompted to provide feedback on the ordering experience." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="tM-k441tZXfxmbJ1ukVG-0">
+          <mxGeometry x="840" y="15" width="120" height="132" as="geometry" />
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="tM-k441tZXfxmbJ1ukVG-0">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-22" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;" edge="1" parent="tM-k441tZXfxmbJ1ukVG-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="960" y="69.47" as="sourcePoint" />
             <mxPoint x="1050" y="69.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8DMtQxWttx50M0B4d1x-18" value="&lt;font color=&quot;#000000&quot;&gt;Canteen Staffs&lt;br&gt;&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=12;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-2">
+        <mxCell id="t8DMtQxWttx50M0B4d1x-18" value="&lt;font color=&quot;#000000&quot;&gt;Canteen Staffs&lt;br&gt;&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=12;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-2">
           <mxGeometry x="20" y="270" width="1370" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="t8DMtQxWttx50M0B4d1x-19" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillStyle=solid;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
+        <mxCell id="t8DMtQxWttx50M0B4d1x-19" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillStyle=solid;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
           <mxGeometry x="70" y="172" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t8DMtQxWttx50M0B4d1x-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.89;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18" source="t8DMtQxWttx50M0B4d1x-19">
+        <mxCell id="t8DMtQxWttx50M0B4d1x-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.89;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18" source="t8DMtQxWttx50M0B4d1x-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="170" as="sourcePoint" />
             <mxPoint x="212" y="130" as="targetPoint" />
@@ -359,19 +359,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8DMtQxWttx50M0B4d1x-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1 (b). Menu Update: Canteen staffs logs in to the app and update the menu for the day&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;horizontal=1;verticalAlign=top;fontSize=8;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
-          <mxGeometry x="150" y="50" width="124" height="78" as="geometry" />
+        <mxCell id="t8DMtQxWttx50M0B4d1x-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1 (b). Menu Update: Canteen staffs logs in to the app and update the menu for the day&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;horizontal=1;verticalAlign=top;fontSize=8;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
+          <mxGeometry x="150" y="42" width="124" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-0" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18" target="t8DMtQxWttx50M0B4d1x-4">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-0" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18" target="t8DMtQxWttx50M0B4d1x-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="99.55000000000001" y="172" as="sourcePoint" />
             <mxPoint x="99.55000000000001" y="72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-14" value="7.&amp;nbsp;Receive Pre-orders and Feedback: The canteen staff receives a list of pre-ordered meals, expected pick-up times, and the immediate feedback from employees." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-14" value="7.&amp;nbsp;Receive Pre-orders and Feedback: The canteen staff receives a list of pre-ordered meals, expected pick-up times, and the immediate feedback from employees." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
           <mxGeometry x="1120" y="20" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-15" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1070" y="74.47" as="sourcePoint" />
             <mxPoint x="1050" y="74.47" as="targetPoint" />
@@ -380,10 +380,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-16" value="8.&amp;nbsp;Prepare Food: The canteen staff prepares meals, prioritizing the pre-ordered meals to ensure they&#39;re ready for pick-up." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
-          <mxGeometry x="930" y="30" width="120" height="110" as="geometry" />
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-16" value="8.&amp;nbsp;Prepare Food: The canteen staff prepares meals, prioritizing the pre-ordered meals to ensure they&#39;re ready for pick-up." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
+          <mxGeometry x="930" y="30" width="120" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-17" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="74.47000000000003" as="sourcePoint" />
             <mxPoint x="860" y="74.47000000000003" as="targetPoint" />
@@ -392,37 +392,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-19" value="9.&amp;nbsp;Set Up Express Lane for Pre-orders: An express lane is set up for employees who have pre-ordered their meals, allowing them to quickly pick up their food." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
-          <mxGeometry x="740" y="20" width="120" height="130" as="geometry" />
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-19" value="9.&amp;nbsp;Set Up Express Lane for Pre-orders: An express lane is set up for employees who have pre-ordered their meals, allowing them to quickly pick up their food." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
+          <mxGeometry x="740" y="20" width="120" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-20" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-20" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="805" y="150" as="sourcePoint" />
+            <mxPoint x="804" y="165" as="sourcePoint" />
             <mxPoint x="875" y="204" as="targetPoint" />
             <Array as="points">
               <mxPoint x="805" y="204" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="D9mpLpNUpnsFXnbMc8AM-21" value="10.&amp;nbsp;Accept Digital Tokens and Serve Food: Employees show their digital tokens via the app, which the canteen staff verifies before serving food." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
+        <mxCell id="D9mpLpNUpnsFXnbMc8AM-21" value="10.&amp;nbsp;Accept Digital Tokens and Serve Food: Employees show their digital tokens via the app, which the canteen staff verifies before serving food." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
           <mxGeometry x="875" y="160" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-1" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-1" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="875" y="222" as="sourcePoint" />
             <mxPoint x="700" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-12" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="186.51999999999998" as="sourcePoint" />
             <mxPoint x="230" y="187" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Generate report on ad hoc basis for persual of management and sent to management&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;horizontal=1;verticalAlign=top;fontSize=8;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
-          <mxGeometry x="230" y="152" width="124" height="78" as="geometry" />
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-13" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Generate report on ad hoc basis for persual of management and sent to management&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;horizontal=1;verticalAlign=top;fontSize=8;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-18">
+          <mxGeometry x="230" y="152" width="124" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-14" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-14" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="202" as="sourcePoint" />
             <mxPoint x="170" y="360" as="targetPoint" />
@@ -431,40 +431,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t8DMtQxWttx50M0B4d1x-24" value="&lt;font color=&quot;#000000&quot;&gt;Management&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-2">
+        <mxCell id="t8DMtQxWttx50M0B4d1x-24" value="&lt;font color=&quot;#000000&quot;&gt;Management&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-2">
           <mxGeometry x="20" y="520" width="1370" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-10" value="15.&amp;nbsp;Review Feedback: The canteen management reviews the immediate and post-meal feedback received to make continuous improvements and address any concerns." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-24">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-10" value="15.&amp;nbsp;Review Feedback: The canteen management reviews the immediate and post-meal feedback received to make continuous improvements and address any concerns." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;verticalAlign=top;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-24">
           <mxGeometry x="540" y="50" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;14. Login to the system and generate required report&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;horizontal=1;verticalAlign=top;fontSize=8;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-24">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;14. Login to the system and generate required report&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;horizontal=1;verticalAlign=top;fontSize=8;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-24">
           <mxGeometry x="170" y="80" width="124" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="t8DMtQxWttx50M0B4d1x-24" target="a05R2dbiaPoEIEAmNqOJ-10">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-24" target="a05R2dbiaPoEIEAmNqOJ-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="294" y="110" as="sourcePoint" />
             <mxPoint x="344" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="t8DMtQxWttx50M0B4d1x-24">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-34" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="90" as="sourcePoint" />
             <mxPoint x="840" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-35" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;16. Take required action for further improvements&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;horizontal=1;verticalAlign=top;fontSize=8;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-24">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-35" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;16. Take required action for further improvements&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;align=center;horizontal=1;verticalAlign=top;fontSize=8;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-24">
           <mxGeometry x="840" y="60" width="124" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="t8DMtQxWttx50M0B4d1x-24" target="a05R2dbiaPoEIEAmNqOJ-38">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-24" target="a05R2dbiaPoEIEAmNqOJ-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="964" y="89.51999999999998" as="sourcePoint" />
             <mxPoint x="1054" y="89.51999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-38" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillStyle=solid;fillColor=#66B2FF;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-24">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-38" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillStyle=solid;fillColor=#66B2FF;fontFamily=Comic Sans MS;" vertex="1" parent="t8DMtQxWttx50M0B4d1x-24">
           <mxGeometry x="1060" y="75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a05R2dbiaPoEIEAmNqOJ-0" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="t8DMtQxWttx50M0B4d1x-2" source="D9mpLpNUpnsFXnbMc8AM-11" target="D9mpLpNUpnsFXnbMc8AM-14">
+        <mxCell id="a05R2dbiaPoEIEAmNqOJ-0" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Comic Sans MS;" edge="1" parent="t8DMtQxWttx50M0B4d1x-2" source="D9mpLpNUpnsFXnbMc8AM-11" target="D9mpLpNUpnsFXnbMc8AM-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1320" y="80" as="sourcePoint" />
             <mxPoint x="1250" y="280" as="targetPoint" />
